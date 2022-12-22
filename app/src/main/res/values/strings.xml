@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">20IT022_Practical_2</string>
+    <string name="Title">Hello, This is First App!</string>
 </resources>
